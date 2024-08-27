@@ -37,10 +37,13 @@ git push -u origin master
 
 Códigos alterados para um segundo commit
 
+retornando a breach master
+git  checkout master 
 
+adicionando o branch do novo botão ao branch master
+git merge novo-botao
 
-
-
+delson disse 
 
 
 
