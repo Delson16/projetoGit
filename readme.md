@@ -11,7 +11,7 @@ git init
 O (master) exibido sinaliza que está é a linha principal de alterações do código 
 
 Manda os arquivos para área de stading (eles ficam preparados para serem upados)
-git add
+git add (aqui fica o nome do arquivo, mas pode-se por um . para pegar todos os arquivos do projeto)
 
 comando que informa o que está na área de stading
 git status
@@ -36,6 +36,12 @@ realiza o upload dos arquivos para o github. o ultimo comando (master), deve con
 git push -u origin master 
 
 Códigos alterados para um segundo commit
+
+Criando uma ramificação branch
+criando uma ramificação chamada novo botão
+git checkout -b "novo-botao"
+
+ao dar enter a brench novo-botao é criada e o git é altomaticamente alterado para ela de modo que as alterações commitadas daqui em diante irão ser adicionadas a essa brench.
 
 
 
