@@ -50,9 +50,11 @@ git checkout -b "novo-botao"
 
 ao dar enter a brench novo-botao é criada e o git é altomaticamente alterado para ela de modo que as alterações commitadas daqui em diante irão ser adicionadas a essa brench.
 
+pega e faz o dowload do código que alguém fez
+git clone link do código que você quer
 
-
-
+atualiza baixando as ultimas atualizações do código hospedado no github
+git pull
 
 
 
